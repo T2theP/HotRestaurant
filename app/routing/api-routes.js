@@ -1,6 +1,6 @@
 var tableData = require('../data/table.js');
 var waitListData = require('../data/waitlist.js');
-
+var path = require('path');
 
 module.exports = function (app) {
 
